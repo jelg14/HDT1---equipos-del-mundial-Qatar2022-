@@ -1,0 +1,26 @@
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.exe
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.deps.json
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.runtimeconfig.json
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.runtimeconfig.dev.json
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.dll
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.pdb
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.csprojAssemblyReference.cache
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.AssemblyInfoInputs.cache
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.AssemblyInfo.cs
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.csproj.CoreCompileInputs.cache
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.dll
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.pdb
+C:\Users\Compu Fire\source\repos\HDT 1 - Array equipos del mundial\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.genruntimeconfig.cache
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.exe
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.deps.json
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.runtimeconfig.json
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.runtimeconfig.dev.json
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.dll
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\bin\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.pdb
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.csprojAssemblyReference.cache
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.AssemblyInfoInputs.cache
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.AssemblyInfo.cs
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.csproj.CoreCompileInputs.cache
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.dll
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.pdb
+C:\Users\Compu Fire\Desktop\Papeleria universidad\documentos de estudio y tareas\2022\3er. trimestre\Programacion\HDT 1 - Array equipos del mundial(beta)\obj\Debug\netcoreapp3.1\HDT 1 - Array equipos del mundial.genruntimeconfig.cache
